@@ -7,12 +7,10 @@ Empower your data. **Data Alchemist** is a modern web application designed to va
 
 [**View the Live Demo »**](https://data-alchemist-m252-git-main-rajjpandeyys-projects.vercel.app/)
 
-<!-- 
-**IMPORTANT**: Add a high-quality screenshot or animated GIF of your application here. 
-This is the best way to show what your project does!
--->
+<br/>
+
 <p align="center">
-  <img src="your-screenshot-or-gif-url.png" alt="Data Alchemist Application Screenshot" width="800"/>
+  <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/72802197/06ca7279-61c5-40ba-8d40-f9c934900b14/image.jpg" alt="Data Alchemist Dashboard" width="800"/>
 </p>
 
 ## ✨ Key Features
@@ -26,6 +24,19 @@ This is the best way to show what your project does!
 | **Data Export** | Export your cleaned, validated data and the generated rule sets as JSON files for use in other systems. |
 | **Modern & Responsive UI** | A clean, user-friendly interface built with Next.js and Tailwind CSS that works beautifully on any device. |
 
+## 📸 Screenshots
+
+<br/>
+<p align="center">
+  <strong>AI-Powered Rule Generation and Business Logic</strong><br/><br/>
+  <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/72802197/ed4f9cc6-a5ab-4768-a0e8-21ed4540fe96/image.jpg" alt="AI Rule Engine" width="750">
+</p>
+<br/>
+<p align="center">
+  <strong>Customizable Prioritization and Weights</strong><br/><br/>
+  <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/72802197/f3c8ef7b-b0d6-4956-96ee-3b48f4755d8c/image.jpg" alt="Prioritization Controls" width="750">
+</p>
+
 ## 🛠️ Tech Stack
 
 | Category | Technology |
@@ -34,42 +45,6 @@ This is the best way to show what your project does!
 | **AI Integration** | Google Gemini API (`@google/generative-ai`) |
 | **Data Parsing** | PapaParse |
 | **Deployment** | Vercel |
-
-## 🚀 Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-*   Node.js (v18 or later)
-*   npm or yarn
-*   A Gemini API Key from [Google AI Studio](https://aistudio.google.com/app/apikey)
-
-### Installation & Setup
-
-1.  **Clone the repository:**
-    ```
-    git clone https://github.com/rajjpandeyy/Data-Alchemist.git
-    cd Data-Alchemist
-    ```
-
-2.  **Install dependencies:**
-    ```
-    npm install
-    ```
-
-3.  **Set up environment variables:**
-    Create a file named `.env.local` in the root of your project and add your Gemini API key:
-    ```
-    GEMINI_API_KEY=your_api_key_here
-    ```
-
-4.  **Run the development server:**
-    ```
-    npm run dev
-    ```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ## 🤝 Contributing
 
