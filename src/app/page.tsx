@@ -102,7 +102,7 @@ export default function Home() {
     Papa.parse(file, {
       header: true,
       skipEmptyLines: true,
-      complete: (results) => {
+      complete: (results: any) => {
         if (!results.data || !Array.isArray(results.data) || results.data.length === 0 || !results.data[0]) return;
 
         const headers = Object.keys(results.data[0]);
@@ -638,7 +638,7 @@ export default function Home() {
             target="_blank" rel="noopener noreferrer"
           >LinkedIn</a>
           <a
-            href="https://github.com/rajjpandeyy"
+            href=""
             className="underline text-blue-300 hover:text-blue-400"
             target="_blank" rel="noopener noreferrer"
           >GitHub</a>
