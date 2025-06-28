@@ -1,64 +1,96 @@
-Data Alchemist
-Empower your data. Validate, explore, and optimize business data with AI-driven tools and an intuitive interface.
+# Data Alchemist
 
-🚀 About the Project
-Data Alchemist is a modern web app for business data validation, exploration, and rule-based optimization.
-Built with Next.js and Tailwind CSS, it leverages AI to recommend, validate, and automate rule creation for your data workflows.
+[![Deployed with Vercel](https://vercel.com/button)](https://data-alchemist-m252-git-main-rajjpandeyys-projects.vercel.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Creator: Raj Pandey
+Empower your data. **Data Alchemist** is a modern web application designed to validate, explore, and optimize business data with an intuitive interface and AI-driven tools.
 
-LinkedIn: https://www.linkedin.com/in/raj-pandey-/
+[**View the Live Demo »**](https://data-alchemist-m252-git-main-rajjpandeyys-projects.vercel.app/)
 
-GitHub: https://github.com/rajjpandeyy
+<!-- 
+**IMPORTANT**: Add a high-quality screenshot or animated GIF of your application here. 
+This is the best way to show what your project does!
+-->
+<p align="center">
+  <img src="your-screenshot-or-gif-url.png" alt="Data Alchemist Application Screenshot" width="800"/>
+</p>
 
-Motivation
-“I built Data Alchemist to make data validation and rule management accessible, interactive, and smart for everyone—combining robust engineering with AI-powered insights.”
+## ✨ Key Features
 
-✨ Features
-Upload and validate CSV data for clients, workers, and tasks
+| Feature | Description |
+| :--- | :--- |
+| **Intuitive CSV Handling** | Seamlessly upload, parse, and validate multi-file business data (clients, workers, tasks) in the browser. |
+| **AI-Powered Rule Engine** | Convert plain English instructions into complex JSON business rules using the power of the Gemini API. |
+| **Intelligent Rule Recommendations** | Receive AI-generated suggestions for rules that can help clean, validate, and optimize your dataset. |
+| **Interactive Data Grids** | Instantly view your data with clear validation feedback, custom prioritization, and adjustable weights. |
+| **Data Export** | Export your cleaned, validated data and the generated rule sets as JSON files for use in other systems. |
+| **Modern & Responsive UI** | A clean, user-friendly interface built with Next.js and Tailwind CSS that works beautifully on any device. |
 
-AI-powered rule recommendations and natural language rule conversion
+## 🛠️ Tech Stack
 
-Interactive data grids with instant validation feedback
+| Category | Technology |
+| :--- | :--- |
+| **Frontend** | Next.js 14 (React), TypeScript, Tailwind CSS |
+| **AI Integration** | Google Gemini API (`@google/generative-ai`) |
+| **Data Parsing** | PapaParse |
+| **Deployment** | Vercel |
 
-Export cleaned data and rules
+## 🚀 Getting Started
 
-Customizable prioritization and weights
+To get a local copy up and running, follow these simple steps.
 
-Responsive, modern UI (Tailwind CSS)
+### Prerequisites
 
-🛠️ Tech Stack
-Next.js (React framework)
+*   Node.js (v18 or later)
+*   npm or yarn
+*   A Gemini API Key from [Google AI Studio](https://aistudio.google.com/app/apikey)
 
-Tailwind CSS (utility-first styling)
+### Installation & Setup
 
-OpenAI API or Gemini (for AI features)
+1.  **Clone the repository:**
+    ```
+    git clone https://github.com/rajjpandeyy/Data-Alchemist.git
+    cd Data-Alchemist
+    ```
 
-PapaParse (CSV parsing)
+2.  **Install dependencies:**
+    ```
+    npm install
+    ```
 
-📦 Getting Started
-Clone the repository
-text
-git clone https://github.com/rajjpandeyy/Data-Alchemist.git
-cd Data-Alchemist
-Install dependencies
-text
-npm install
-# or
-yarn install
-Create your environment file
-Copy .env.example to .env.local and fill in your API keys.
+3.  **Set up environment variables:**
+    Create a file named `.env.local` in the root of your project and add your Gemini API key:
+    ```
+    GEMINI_API_KEY=your_api_key_here
+    ```
 
-Run the development server
-text
-npm run dev
-# or
-yarn dev
-Open http://localhost:3000 to see the app.
+4.  **Run the development server:**
+    ```
+    npm run dev
+    ```
 
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+## 🤝 Contributing
 
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change. I am always open to collaboration and improving this tool.
 
-📄 License
-MIT
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+## 👨‍💻 About the Creator
+
+> “I built Data Alchemist to make data validation and rule management accessible, interactive, and smart for everyone—combining robust engineering with AI-powered insights.”
+>
+> **- Raj Pandey**
+
+Connect with me:
+*   **LinkedIn:** [https://www.linkedin.com/in/raj-pandey-/](https://www.linkedin.com/in/raj-pandey-/)
+*   **GitHub:** [https://github.com/rajjpandeyy](https://github.com/rajjpandeyy)
+
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
