@@ -10,7 +10,7 @@ Empower your data. **Data Alchemist** is a modern web application designed to va
 <br/>
 
 <p align="center">
-  <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/72802197/06ca7279-61c5-40ba-8d40-f9c934900b14/image.jpg" alt="Data Alchemist Dashboard" width="800"/>
+  <img src="https://github.com/rajjpandeyy/Data-Alchemist/blob/main/public/Screenshot%202025-06-29%20022553.png" alt="Data Alchemist Dashboard" width="800"/>
 </p>
 
 ## ✨ Key Features
@@ -29,12 +29,12 @@ Empower your data. **Data Alchemist** is a modern web application designed to va
 <br/>
 <p align="center">
   <strong>AI-Powered Rule Generation and Business Logic</strong><br/><br/>
-  <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/72802197/ed4f9cc6-a5ab-4768-a0e8-21ed4540fe96/image.jpg" alt="AI Rule Engine" width="750">
+  <img src="https://github.com/rajjpandeyy/Data-Alchemist/blob/main/public/Screenshot%202025-06-29%20022522.png" alt="AI Rule Engine" width="750">
 </p>
 <br/>
 <p align="center">
   <strong>Customizable Prioritization and Weights</strong><br/><br/>
-  <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/72802197/f3c8ef7b-b0d6-4956-96ee-3b48f4755d8c/image.jpg" alt="Prioritization Controls" width="750">
+  <img src="https://github.com/rajjpandeyy/Data-Alchemist/blob/main/public/Screenshot%202025-06-29%20021803.png" alt="Prioritization Controls" width="750">
 </p>
 
 ## 🛠️ Tech Stack
