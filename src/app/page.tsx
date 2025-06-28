@@ -130,7 +130,7 @@ export default function Home() {
           return newAppData;
         });
       },
-      error: (error) => {
+      error: (error: any) => {
         console.error("CSV parsing error:", error);
         alert(`Error parsing ${file.name}`);
       },
@@ -638,7 +638,7 @@ export default function Home() {
             target="_blank" rel="noopener noreferrer"
           >LinkedIn</a>
           <a
-            href=""
+            href="https://github.com/rajjpandeyy"
             className="underline text-blue-300 hover:text-blue-400"
             target="_blank" rel="noopener noreferrer"
           >GitHub</a>
