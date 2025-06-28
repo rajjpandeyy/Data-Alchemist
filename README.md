@@ -1,11 +1,11 @@
 # Data Alchemist
 
-[![Deployed with Vercel](https://vercel.com/button)](https://data-alchemist-m252-git-main-rajjpandeyys-projects.vercel.app/)
+[![Deployed with Vercel](https://vercel.com/button)](https://data-alchemist-rajjpandeyys-projects.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Empower your data. **Data Alchemist** is a modern web application designed to validate, explore, and optimize business data with an intuitive interface and AI-driven tools.
 
-[**View the Live Demo »**](https://data-alchemist-m252-git-main-rajjpandeyys-projects.vercel.app/)
+[**View the Live Demo »**](https://data-alchemist-rajjpandeyys-projects.vercel.app/)
 
 <br/>
 
